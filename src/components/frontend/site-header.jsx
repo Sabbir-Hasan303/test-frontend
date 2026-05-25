@@ -283,7 +283,7 @@ export function SiteHeader() {
             >
               CONTACT
             </Link>
-            <Link
+            {/* <Link
               href="/deals"
               className={`font-medium transition-colors ${
                 isActive('/deals')
@@ -292,7 +292,7 @@ export function SiteHeader() {
               }`}
             >
               🔥 DEALS
-            </Link>
+            </Link> */}
           </nav>
           <div className="items-center space-x-3 hidden lg:flex">
             <div className="w-12 h-12 relative">
