@@ -117,12 +117,12 @@ export function ReviewsSection() {
                   >
                     Specifications
                   </TabsTrigger>
-                  <TabsTrigger
+                  {/* <TabsTrigger
                     value="reviews"
                     className="text-sm md:text-lg data-[state=active]:text-white data-[state=active]:bg-green-600 data-[state=active]:border-green-600 border-b-2 border-transparent px-4 rounded-md"
                   >
                     Reviews
-                  </TabsTrigger>
+                  </TabsTrigger> */}
                 </TabsList>
               </div>
               <ScrollBar orientation="horizontal" />
