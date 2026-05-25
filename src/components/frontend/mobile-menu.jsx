@@ -3,7 +3,7 @@
 import { Button } from "@/components/ui/button"
 import { Input } from "@/components/ui/input"
 import { ScrollArea } from "@/components/ui/scroll-area"
-import { BookOpen, Flame, Home, Info, Menu, Phone, Search, ShoppingBag, X, User } from 'lucide-react'
+import { BookOpen, Home, Info, Menu, Phone, Search, ShoppingBag, X, User } from 'lucide-react'
 import Image from "next/image"
 import Link from "next/link"
 import { usePathname } from 'next/navigation'
