@@ -26,7 +26,7 @@ export function MobileMenu() {
     { href: "/blog", label: "BLOG", icon: BookOpen },
     { href: "/about", label: "ABOUT", icon: Info },
     { href: "/contact", label: "CONTACT", icon: Phone },
-    { href: "/deals", label: "DEALS", icon: Flame },
+    // { href: "/deals", label: "DEALS", icon: Flame },
   ];
 
   useEffect(() => {
